@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwitterLoginDemo</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">wEMOBv9bC23RmoaqfeXLMrV1T</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">IbdJdpVCiNEANyFQn5muNNvcDC7e3AZOhn5uJBvm5LVEv50Qnm</string>
+
+    <string name="custom_log_in_with_twitter">Custom Log in with Twitter</string>
+    <string name="get_profile_image">Fetch Profile Image</string>
+
+</resources>
